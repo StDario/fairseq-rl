@@ -1,1 +1,3 @@
-# fairseq-rl
+# NMT model implementing REINFORCE
+
+Based on fairseq
